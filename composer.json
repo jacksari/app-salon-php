@@ -1,0 +1,19 @@
+{
+    "name": "jack-sari/app_salon",
+    "description": "PHP8",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controller\\": "./controllers",
+            "Model\\": "./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jack Sari",
+            "email": "janasarii@gmail.com"
+        }
+    ],
+    "require": {}
+}
